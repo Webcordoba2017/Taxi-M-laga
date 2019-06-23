@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 	<widget id="Taxi Grande Málaga" version="1.0.1"  xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
 		<name>Taxi Grande Málaga</name>    
-		<description>Usted puede reservar su <a href="https://www.taxigrandemalaga.es/">taxi Malaga</a>a> antes de viajar y evitar así largas colas, no se preocupe si su vuelo o tren se retrasa ya que tenemos información en directo de su trayectoria utilizando programas especiales para ello, no se preocupe si se retrasa no tendrá coste ninguno por el retraso a la llegada del aeropuerto, puerto, o estación de tren. Le estará esperando en la salida de viajeros el chófer con un cartel con su nombre.</description>
+		<description>Usted puede reservar su <a href="https://www.taxigrandemalaga.es/">taxi Malaga</a> antes de viajar y evitar así largas colas, no se preocupe si su vuelo o tren se retrasa ya que tenemos información en directo de su trayectoria utilizando programas especiales para ello, no se preocupe si se retrasa no tendrá coste ninguno por el retraso a la llegada del aeropuerto, puerto, o estación de tren. Le estará esperando en la salida de viajeros el chófer con un cartel con su nombre.</description>
 		<author email="info@taxigrandemalaga.es" href="https://www.taxigrandemalaga.es/">Taxi Grande Málaga</author>
 		<content src="index.html" />
 		<preference name="DisallowOverscroll" value="true" />    
